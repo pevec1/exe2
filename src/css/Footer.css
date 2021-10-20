@@ -1,0 +1,13 @@
+footer {
+	padding: 10px 0;
+	background-image: linear-gradient(to top, #b1ae02 0%, #313b02 100%);
+}
+
+footer a {
+	display: block;
+}
+
+footer p {
+	display: flex;
+	align-items: center;
+}
